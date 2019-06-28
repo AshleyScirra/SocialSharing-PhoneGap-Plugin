@@ -5,6 +5,10 @@
 [![TotalDownloads][total-downloads-image]][npm-url]
 [![Twitter Follow][twitter-image]][twitter-url]
 
+## Forked
+
+This repository is a fork with the purpose of fixing Android X compatibility. Once master has resolved the issue it's likely that it will be retired.
+
 [npm-image]:http://img.shields.io/npm/v/cordova-plugin-x-socialsharing.svg
 [npm-url]:https://npmjs.org/package/cordova-plugin-x-socialsharing
 [downloads-image]:http://img.shields.io/npm/dm/cordova-plugin-x-socialsharing.svg
